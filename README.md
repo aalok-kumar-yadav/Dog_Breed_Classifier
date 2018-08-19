@@ -1,10 +1,10 @@
-# Dog_Breed_Classifier-----Deep-Learning-Project
+# Dog_Breed_Classifier
 
 A dog breed classifier is to classify various breed of dog, classification of different object is a little easier task but classifying similar type of object is much more intresting and difficult.we created a system using google's inception model and we trained for our custom dataset. result is 99% accuracy with Label.
 
 This notebook will walk you step by step through the process of using a pre-trained model inception with our own custom data to classfy various bredd of dog in an image. Make sure to follow the [installation instructions](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md) before you start.
 
-# Imports
+## Imports
 
 
 ```python
